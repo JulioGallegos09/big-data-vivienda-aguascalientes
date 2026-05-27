@@ -1,0 +1,29 @@
+# Diccionario de variables
+
+- `property_id`: Variable del corpus procesado.
+- `source`: Variable del corpus procesado.
+- `title`: Variable del corpus procesado.
+- `property_type`: Variable del corpus procesado.
+- `operation`: Variable del corpus procesado.
+- `price_mxn`: Precio de venta/listado en pesos mexicanos.
+- `built_area_m2`: Superficie construida en metros cuadrados.
+- `land_area_m2`: Superficie de terreno en metros cuadrados.
+- `bedrooms`: Numero de recamaras.
+- `bathrooms`: Numero de banos.
+- `parking_spaces`: Numero de cajones de estacionamiento.
+- `age_years`: Antiguedad estimada de la propiedad.
+- `neighborhood`: Variable del corpus procesado.
+- `municipality`: Variable del corpus procesado.
+- `state`: Variable del corpus procesado.
+- `latitude`: Variable del corpus procesado.
+- `longitude`: Variable del corpus procesado.
+- `listing_date`: Variable del corpus procesado.
+- `price_per_m2`: Precio dividido entre superficie construida.
+- `distance_to_center_km`: Distancia al centro de Aguascalientes.
+- `amenities_500m`: Amenidades cercanas dentro de 500 metros.
+- `amenities_1km`: Amenidades cercanas dentro de 1 kilometro.
+- `schools_1km`: Variable del corpus procesado.
+- `hospitals_1km`: Variable del corpus procesado.
+- `commerce_1km`: Variable del corpus procesado.
+- `log_price_mxn`: Variable del corpus procesado.
+- `is_new_property`: Variable del corpus procesado.
