@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="450.0" y="34" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Comparacion de metricas por modelo</text>
+<line x1="70" y1="490" x2="830" y2="490" stroke="#222" stroke-width="1.5"/>
+<line x1="70" y1="490" x2="70" y2="70" stroke="#222" stroke-width="1.5"/>
+<text x="450.0" y="540" text-anchor="middle" font-family="Arial" font-size="15">Modelo y metrica</text>
+<text x="20" y="280.0" text-anchor="middle" font-family="Arial" font-size="15" transform="rotate(-90 20 280.0)">Valor</text>
+<rect x="78.0" y="392.6" width="110.7" height="97.4" fill="#2f6f8f"/>
+<text x="133.3" y="508" text-anchor="middle" font-family="Arial" font-size="10">ridge MAE</text>
+<rect x="204.7" y="377.8" width="110.7" height="112.2" fill="#b3541e"/>
+<text x="260.0" y="508" text-anchor="middle" font-family="Arial" font-size="10">ridge RMSE</text>
+<rect x="331.3" y="70.0" width="110.7" height="420.0" fill="#586f7c"/>
+<text x="386.7" y="508" text-anchor="middle" font-family="Arial" font-size="10">ridge R2 x 1M</text>
+<rect x="458.0" y="349.1" width="110.7" height="140.9" fill="#2f6f8f"/>
+<text x="513.3" y="508" text-anchor="middle" font-family="Arial" font-size="10">gradi MAE</text>
+<rect x="584.7" y="324.5" width="110.7" height="165.5" fill="#b3541e"/>
+<text x="640.0" y="508" text-anchor="middle" font-family="Arial" font-size="10">gradi RMSE</text>
+<rect x="711.3" y="101.3" width="110.7" height="388.7" fill="#586f7c"/>
+<text x="766.7" y="508" text-anchor="middle" font-family="Arial" font-size="10">gradi R2 x 1M</text>
+</svg>

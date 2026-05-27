@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="450.0" y="34" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Distribucion de precios de vivienda</text>
+<line x1="70" y1="490" x2="830" y2="490" stroke="#222" stroke-width="1.5"/>
+<line x1="70" y1="490" x2="70" y2="70" stroke="#222" stroke-width="1.5"/>
+<text x="450.0" y="540" text-anchor="middle" font-family="Arial" font-size="15">Precio (MXN)</text>
+<text x="20" y="280.0" text-anchor="middle" font-family="Arial" font-size="15" transform="rotate(-90 20 280.0)">Frecuencia</text>
+<rect x="72.0" y="379.5" width="38.2" height="110.5" fill="#2f6f8f"/>
+<rect x="114.2" y="357.4" width="38.2" height="132.6" fill="#2f6f8f"/>
+<rect x="156.4" y="445.8" width="38.2" height="44.2" fill="#2f6f8f"/>
+<rect x="198.7" y="401.6" width="38.2" height="88.4" fill="#2f6f8f"/>
+<rect x="240.9" y="357.4" width="38.2" height="132.6" fill="#2f6f8f"/>
+<rect x="283.1" y="313.2" width="38.2" height="176.8" fill="#2f6f8f"/>
+<rect x="325.3" y="70.0" width="38.2" height="420.0" fill="#2f6f8f"/>
+<rect x="367.6" y="246.8" width="38.2" height="243.2" fill="#2f6f8f"/>
+<rect x="409.8" y="136.3" width="38.2" height="353.7" fill="#2f6f8f"/>
+<rect x="452.0" y="158.4" width="38.2" height="331.6" fill="#2f6f8f"/>
+<rect x="494.2" y="246.8" width="38.2" height="243.2" fill="#2f6f8f"/>
+<rect x="536.4" y="379.5" width="38.2" height="110.5" fill="#2f6f8f"/>
+<rect x="578.7" y="335.3" width="38.2" height="154.7" fill="#2f6f8f"/>
+<rect x="620.9" y="401.6" width="38.2" height="88.4" fill="#2f6f8f"/>
+<rect x="663.1" y="313.2" width="38.2" height="176.8" fill="#2f6f8f"/>
+<rect x="705.3" y="335.3" width="38.2" height="154.7" fill="#2f6f8f"/>
+<rect x="747.6" y="401.6" width="38.2" height="88.4" fill="#2f6f8f"/>
+<rect x="789.8" y="445.8" width="38.2" height="44.2" fill="#2f6f8f"/>
+</svg>

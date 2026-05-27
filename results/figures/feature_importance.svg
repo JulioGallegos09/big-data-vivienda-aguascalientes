@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="450.0" y="34" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Importancia de variables - Gradient Boosting</text>
+<line x1="70" y1="490" x2="830" y2="490" stroke="#222" stroke-width="1.5"/>
+<line x1="70" y1="490" x2="70" y2="70" stroke="#222" stroke-width="1.5"/>
+<text x="450.0" y="540" text-anchor="middle" font-family="Arial" font-size="15">Importancia</text>
+<text x="20" y="280.0" text-anchor="middle" font-family="Arial" font-size="15" transform="rotate(-90 20 280.0)">Variable</text>
+<text x="70" y="91.5" font-family="Arial" font-size="12">built_area_m2</text>
+<rect x="260" y="74.0" width="580.0" height="27.0" fill="#586f7c"/>
+<text x="70" y="126.5" font-family="Arial" font-size="12">bedrooms</text>
+<rect x="260" y="109.0" width="289.3" height="27.0" fill="#586f7c"/>
+<text x="70" y="161.5" font-family="Arial" font-size="12">longitude</text>
+<rect x="260" y="144.0" width="161.0" height="27.0" fill="#586f7c"/>
+<text x="70" y="196.5" font-family="Arial" font-size="12">parking_spaces</text>
+<rect x="260" y="179.0" width="138.6" height="27.0" fill="#586f7c"/>
+<text x="70" y="231.5" font-family="Arial" font-size="12">land_area_m2</text>
+<rect x="260" y="214.0" width="132.5" height="27.0" fill="#586f7c"/>
+<text x="70" y="266.5" font-family="Arial" font-size="12">bathrooms</text>
+<rect x="260" y="249.0" width="57.4" height="27.0" fill="#586f7c"/>
+<text x="70" y="301.5" font-family="Arial" font-size="12">neighborhood_Villas de Nuest</text>
+<rect x="260" y="284.0" width="28.1" height="27.0" fill="#586f7c"/>
+<text x="70" y="336.5" font-family="Arial" font-size="12">neighborhood_Morelos</text>
+<rect x="260" y="319.0" width="23.0" height="27.0" fill="#586f7c"/>
+<text x="70" y="371.5" font-family="Arial" font-size="12">latitude</text>
+<rect x="260" y="354.0" width="20.7" height="27.0" fill="#586f7c"/>
+<text x="70" y="406.5" font-family="Arial" font-size="12">neighborhood_Bosques del Pra</text>
+<rect x="260" y="389.0" width="4.9" height="27.0" fill="#586f7c"/>
+<text x="70" y="441.5" font-family="Arial" font-size="12">property_type_casa en condom</text>
+<rect x="260" y="424.0" width="4.7" height="27.0" fill="#586f7c"/>
+<text x="70" y="476.5" font-family="Arial" font-size="12">distance_to_center_km</text>
+<rect x="260" y="459.0" width="3.5" height="27.0" fill="#586f7c"/>
+</svg>

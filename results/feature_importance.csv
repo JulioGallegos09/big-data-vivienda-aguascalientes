@@ -1,0 +1,33 @@
+feature,importance
+built_area_m2,0.39968431017870293
+bedrooms,0.19938468839922227
+longitude,0.11096371012809202
+parking_spaces,0.09550517608095563
+land_area_m2,0.09132419792578053
+bathrooms,0.039547222256097046
+neighborhood_Villas de Nuestra Senora,0.01934092501269392
+neighborhood_Morelos,0.01584309334334655
+latitude,0.014236013056610574
+neighborhood_Bosques del Prado,0.0033539194818864313
+property_type_casa en condominio,0.0032689277154975983
+distance_to_center_km,0.0024340436427512974
+neighborhood_Trojes de Alonso,0.0013814228874724885
+age_years,0.0011602576154831896
+neighborhood_Centro,0.0009809433951643036
+neighborhood_San Cayetano,0.000852390537802461
+commerce_1km,0.0004318871749284292
+neighborhood_Rancho Santa Monica,0.000306871167512342
+property_type_casa,0.0
+is_new_property,0.0
+amenities_500m,0.0
+amenities_1km,0.0
+hospitals_1km,0.0
+schools_1km,0.0
+neighborhood_La Rioja,0.0
+neighborhood_Jardines de la Concepcion,0.0
+property_type_departamento,0.0
+neighborhood_Canteras de San Javier,0.0
+neighborhood_Ojocaliente,0.0
+neighborhood_Pulgas Pandas,0.0
+municipality_Aguascalientes,0.0
+state_Aguascalientes,0.0
