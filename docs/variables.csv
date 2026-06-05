@@ -1,0 +1,28 @@
+variable,descripcion,tipo,uso_en_modelo
+property_id,Identificador unico de la propiedad,categorica,no
+source,Fuente de origen del registro,categorica,no
+title,Titulo del anuncio o registro,texto,no
+property_type,Tipo de inmueble,categorica,si
+operation,Operacion inmobiliaria,categorica,no
+price_mxn,Precio de venta o listado en pesos mexicanos,numerica,target
+built_area_m2,Superficie construida en metros cuadrados,numerica,si
+land_area_m2,Superficie de terreno en metros cuadrados,numerica,si
+bedrooms,Numero de recamaras,numerica,si
+bathrooms,Numero de banos,numerica,si
+parking_spaces,Numero de cajones de estacionamiento,numerica,si
+age_years,Antiguedad estimada de la propiedad en anos,numerica,si
+neighborhood,Colonia o zona de la propiedad,categorica,si
+municipality,Municipio,categorica,si
+state,Estado,categorica,si
+latitude,Latitud geografica,numerica,si
+longitude,Longitud geografica,numerica,si
+listing_date,Fecha de listado o registro,fecha,no
+price_per_m2,Precio dividido entre superficie construida,numerica,no
+distance_to_center_km,Distancia al centro de Aguascalientes en kilometros,numerica,si
+amenities_500m,Conteo de amenidades cercanas dentro de 500 metros,numerica,si
+amenities_1km,Conteo de amenidades cercanas dentro de 1 kilometro,numerica,si
+schools_1km,Conteo de escuelas cercanas dentro de 1 kilometro,numerica,si
+hospitals_1km,Conteo de hospitales cercanos dentro de 1 kilometro,numerica,si
+commerce_1km,Conteo de comercios cercanos dentro de 1 kilometro,numerica,si
+log_price_mxn,Transformacion logaritmica del precio,numerica,no
+is_new_property,Bandera de propiedad nueva si la antiguedad es menor o igual a 3 anos,binaria,si

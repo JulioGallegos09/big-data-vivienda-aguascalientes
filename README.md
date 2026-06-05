@@ -91,6 +91,18 @@ Despues de ejecutar los scripts, revisar:
 - `results/figures/model_comparison.svg`: comparacion de modelos.
 - `results/figures/feature_importance.svg`: importancia de variables para Gradient Boosting.
 
+## Entregables para el profesor
+
+La guia de entrega esta en `docs/entregables_profesor.md` y la revision contra la lista de cotejo esta en `docs/checklist_cotejo.md`.
+
+Archivos clave:
+
+- Variables: `docs/variables.csv`
+- EDA: `docs/eda_summary.md`
+- Base normalizada: `data/processed/housing_ags.sqlite`
+- Esquema de base de datos: `docs/database_schema.md`
+- Reporte: `docs/project_report.md`
+
 ## Limitaciones
 
 - El objetivo predice precio de listado, no precio final de compraventa.
